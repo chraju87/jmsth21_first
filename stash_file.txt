@@ -1,0 +1,2 @@
+this is stash file, just added the code
+added code from feature1 branch using vi
